@@ -12,7 +12,6 @@
 
 - 📫 You can reach me through my LinkedIn profile www.linkedin.com/in/hd-falla-gutierrez.
 
-- ⚡ Fun fact: I am between jobs and currently looking for a source of income!
 <!---
 gutfalla/gutfalla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
